@@ -11,5 +11,5 @@
 * ⚖️ AI applications in legal text analysis and statute processing
 
 ### 📬 Let's Connect
-* [![Email](https://img.shields.io/badge/-Email-%23333?style=flat-square&logo=gmail)](mailto:wutong@law.pku.edu.cn) wutong [at] law [dot] pku [dot] edu [dot] cn
+* [![Email](https://img.shields.io/badge/Email-wutong%40law.pku.edu.cn-blue?style=flat-square&logo=gmail)](mailto:wutong@law.pku.edu.cn)
 * 📡 73 de **BI1REY**
