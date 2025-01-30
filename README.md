@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hi, I'm Tong Wu 👋
 
-<!--
-**Papiera4/Papiera4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🎓 Academic Background
+* Dual Bachelor's Degrees from Zhejiang University
+  * 💻 Computer Science & ⚖️ Law
+* Master Candidate at Peking University
+  * 🏛️ Public Law
 
-Here are some ideas to get you started:
+### 🔍 Research Interest
+* 📡 Impact of communication technologies on democratic processes
+* ⚖️ AI applications in legal text analysis and statute processing
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📬 Let's Connect
+* [![Email](https://img.shields.io/badge/-Email-%23333?style=flat-square&logo=gmail)](mailto:wutong@law.pku.edu.cn) wutong [at] law [dot] pku [dot] edu [dot] cn
+* 📡 73 de **BI1REY**
