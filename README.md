@@ -7,7 +7,7 @@
   * 🏛️ Public Law
 
 ### 🔍 Research Interest
-* 📡 Impact of communication technologies on democratic processes
+* 📱 Impact of communication technologies on democratic processes
 * ⚖️ AI applications in legal text analysis and statute processing
 
 ### 📬 Let's Connect
