@@ -2,13 +2,13 @@
 
 ### 🎓 Academic Background
 * Dual Bachelor's Degrees from Zhejiang University
-  * 💻 Computer Science & ⚖️ Law
+  * Computer Science & Law
 * Master Candidate at Peking University
-  * 🏛️ Public Law
+  * Public Law
 
 ### 🔍 Research Interest
-* 📱 Electronic civil disobedience
-* ⚖️ AI for legal research
+* Electronic civil disobedience
+* AI for legal research
 
 ### 📬 Let's Connect
 * [![Email](https://img.shields.io/badge/Email-wutong%40law.pku.edu.cn-blue?style=flat-square&logo=gmail)](mailto:wutong@law.pku.edu.cn)
