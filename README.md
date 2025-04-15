@@ -7,8 +7,8 @@
   * 🏛️ Public Law
 
 ### 🔍 Research Interest
-* 📱 Impact of communication technologies on democratic processes
-* ⚖️ AI applications in legal text analysis and statute processing
+* 📱 Electronic civil disobedience
+* ⚖️ AI for legal research
 
 ### 📬 Let's Connect
 * [![Email](https://img.shields.io/badge/Email-wutong%40law.pku.edu.cn-blue?style=flat-square&logo=gmail)](mailto:wutong@law.pku.edu.cn)
